@@ -1,0 +1,117 @@
+Date : 2021-08-23 17:48:02
+Directory : c:\Users\sangfor\sangfor\github.com\echo
+Total : 81 files,  14875 codes, 6300 comments, 2100 blanks, all 23275 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Go       |         68 |     14,426 |      6,290 |      1,975 |     22,691 |
+| Markdown |          5 |        248 |          2 |         88 |        338 |
+| YAML     |          4 |        145 |          8 |         21 |        174 |
+| Makefile |          1 |         24 |          0 |         11 |         35 |
+| HTML     |          2 |         18 |          0 |          2 |         20 |
+| XML      |          1 |         14 |          0 |          3 |         17 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |         81 |     14,875 |      6,300 |      2,100 |     23,275 |
+| .github                                                                     |          3 |        130 |          8 |         28 |        166 |
+| .github\workflows                                                           |          1 |        102 |          2 |         17 |        121 |
+| _fixture                                                                    |          4 |         30 |          0 |          5 |         35 |
+| _fixture\_fixture                                                           |          1 |          1 |          0 |          0 |          1 |
+| _fixture\certs                                                              |          1 |         11 |          0 |          3 |         14 |
+| _fixture\folder                                                             |          1 |          9 |          0 |          1 |         10 |
+| middleware                                                                  |         47 |      6,301 |      1,693 |      1,002 |      8,996 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                    | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\sangfor\sangfor\github.com\echo\.github\ISSUE_TEMPLATE.md          | Markdown |         15 |          0 |         10 |         25 |
+| c:\Users\sangfor\sangfor\github.com\echo\.github\stale.yml                  | YAML     |         13 |          6 |          1 |         20 |
+| c:\Users\sangfor\sangfor\github.com\echo\.github\workflows\echo.yml         | YAML     |        102 |          2 |         17 |        121 |
+| c:\Users\sangfor\sangfor\github.com\echo\.travis.yml                        | YAML     |         20 |          0 |          2 |         22 |
+| c:\Users\sangfor\sangfor\github.com\echo\CHANGELOG.md                       | Markdown |        126 |          0 |         42 |        168 |
+| c:\Users\sangfor\sangfor\github.com\echo\Makefile                           | Makefile |         24 |          0 |         11 |         35 |
+| c:\Users\sangfor\sangfor\github.com\echo\README.md                          | Markdown |         95 |          2 |         33 |        130 |
+| c:\Users\sangfor\sangfor\github.com\echo\_fixture\_fixture\README.md        | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\sangfor\sangfor\github.com\echo\_fixture\certs\README.md           | Markdown |         11 |          0 |          3 |         14 |
+| c:\Users\sangfor\sangfor\github.com\echo\_fixture\folder\index.html         | HTML     |          9 |          0 |          1 |         10 |
+| c:\Users\sangfor\sangfor\github.com\echo\_fixture\index.html                | HTML     |          9 |          0 |          1 |         10 |
+| c:\Users\sangfor\sangfor\github.com\echo\bind.go                            | Go       |        274 |         36 |         31 |        341 |
+| c:\Users\sangfor\sangfor\github.com\echo\bind_test.go                       | Go       |        949 |         20 |         77 |      1,046 |
+| c:\Users\sangfor\sangfor\github.com\echo\binder.go                          | Go       |        897 |        185 |        149 |      1,231 |
+| c:\Users\sangfor\sangfor\github.com\echo\binder_external_test.go            | Go       |         99 |         10 |         22 |        131 |
+| c:\Users\sangfor\sangfor\github.com\echo\binder_go1.15_test.go              | Go       |        234 |          8 |         24 |        266 |
+| c:\Users\sangfor\sangfor\github.com\echo\binder_test.go                     | Go       |      2,561 |          5 |        192 |      2,758 |
+| c:\Users\sangfor\sangfor\github.com\echo\codecov.yml                        | YAML     |         10 |          0 |          1 |         11 |
+| c:\Users\sangfor\sangfor\github.com\echo\context.go                         | Go       |        459 |         75 |        123 |        657 |
+| c:\Users\sangfor\sangfor\github.com\echo\context_test.go                    | Go       |        752 |         47 |        132 |        931 |
+| c:\Users\sangfor\sangfor\github.com\echo\echo.go                            | Go       |        374 |        570 |         50 |        994 |
+| c:\Users\sangfor\sangfor\github.com\echo\echo_test.go                       | Go       |        118 |      1,350 |         11 |      1,479 |
+| c:\Users\sangfor\sangfor\github.com\echo\go.mod                             | XML      |         14 |          0 |          3 |         17 |
+| c:\Users\sangfor\sangfor\github.com\echo\group.go                           | Go       |         20 |        102 |          3 |        125 |
+| c:\Users\sangfor\sangfor\github.com\echo\group_test.go                      | Go       |         93 |         22 |          7 |        122 |
+| c:\Users\sangfor\sangfor\github.com\echo\ip.go                              | Go       |        106 |         17 |         15 |        138 |
+| c:\Users\sangfor\sangfor\github.com\echo\ip_test.go                         | Go       |        222 |          6 |          8 |        236 |
+| c:\Users\sangfor\sangfor\github.com\echo\json.go                            | Go       |         23 |          4 |          5 |         32 |
+| c:\Users\sangfor\sangfor\github.com\echo\json_test.go                       | Go       |         63 |         16 |         23 |        102 |
+| c:\Users\sangfor\sangfor\github.com\echo\log.go                             | Go       |         37 |          1 |          4 |         42 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\basic_auth.go           | Go       |         74 |         17 |         16 |        107 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\basic_auth_test.go      | Go       |         54 |          6 |         12 |         72 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\body_dump.go            | Go       |         72 |         16 |         20 |        108 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\body_dump_test.go       | Go       |         77 |          1 |         14 |         92 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\body_limit.go           | Go       |         81 |         18 |         19 |        118 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\body_limit_test.go      | Go       |         67 |          6 |         13 |         86 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\compress.go             | Go       |        115 |         13 |         19 |        147 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\compress_test.go        | Go       |        148 |         12 |         27 |        187 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\cors.go                 | Go       |        147 |         39 |         26 |        212 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\cors_test.go            | Go       |         88 |        312 |         10 |        410 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\csrf.go                 | Go       |        143 |         48 |         31 |        222 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\csrf_test.go            | Go       |        131 |          4 |         26 |        161 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\decompress.go           | Go       |         90 |         11 |         20 |        121 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\decompress_test.go      | Go       |        180 |          4 |         26 |        210 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\jwt.go                  | Go       |        225 |         81 |         42 |        348 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\jwt_test.go             | Go       |        548 |          8 |         50 |        606 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\key_auth.go             | Go       |        127 |         34 |         21 |        182 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\key_auth_test.go        | Go       |        247 |          0 |         13 |        260 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\logger.go               | Go       |        168 |         40 |         16 |        224 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\logger_test.go          | Go       |        144 |          7 |         23 |        174 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\method_override.go      | Go       |         59 |         20 |         14 |         93 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\method_override_test.go | Go       |         38 |          4 |          8 |         50 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\middleware.go           | Go       |         71 |          7 |         12 |         90 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\middleware_test.go      | Go       |         86 |          0 |          7 |         93 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\proxy.go                | Go       |        211 |         54 |         39 |        304 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\proxy_test.go           | Go       |        290 |         56 |         32 |        378 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\rate_limiter.go         | Go       |        157 |         90 |         21 |        268 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\rate_limiter_test.go    | Go       |        373 |          0 |         88 |        461 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\recover.go              | Go       |         71 |         18 |         13 |        102 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\recover_test.go         | Go       |         72 |          0 |         12 |         84 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\redirect.go             | Go       |         93 |         38 |         22 |        153 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\redirect_test.go        | Go       |        256 |          0 |         25 |        281 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\request_id.go           | Go       |         50 |          9 |         12 |         71 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\request_id_test.go      | Go       |         48 |          1 |          9 |         58 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\rewrite.go              | Go       |         47 |         22 |         13 |         82 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\rewrite_test.go         | Go       |         80 |        169 |         13 |        262 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\secure.go               | Go       |         75 |         52 |         19 |        146 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\secure_test.go          | Go       |         78 |          5 |          9 |         92 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\slash.go                | Go       |         87 |         25 |         19 |        131 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\slash_test.go           | Go       |        254 |          2 |         23 |        279 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\static.go               | Go       |        140 |        120 |         17 |        277 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\static_1_16_test.go     | Go       |         93 |          1 |         13 |        107 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\static_test.go          | Go       |        132 |        172 |          5 |        309 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\timeout.go              | Go       |         82 |         81 |         20 |        183 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\timeout_test.go         | Go       |        342 |         20 |         82 |        444 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\util.go                 | Go       |         47 |          2 |          6 |         55 |
+| c:\Users\sangfor\sangfor\github.com\echo\middleware\util_test.go            | Go       |         43 |         48 |          5 |         96 |
+| c:\Users\sangfor\sangfor\github.com\echo\response.go                        | Go       |         69 |         24 |         12 |        105 |
+| c:\Users\sangfor\sangfor\github.com\echo\response_test.go                   | Go       |         58 |          2 |         15 |         75 |
+| c:\Users\sangfor\sangfor\github.com\echo\router.go                          | Go       |        445 |         71 |         51 |        567 |
+| c:\Users\sangfor\sangfor\github.com\echo\router_test.go                     | Go       |        272 |      2,026 |         19 |      2,317 |
+| Total                                                                       |          |     14,875 |      6,300 |      2,100 |     23,275 |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
